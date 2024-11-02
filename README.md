@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A simple e-commerce web application built with ASP.NET Core and Entity Framework Core using an in-memory SQLite database. Features include user management, product catalog, shopping cart, and order processing.
+A simple e-commerce web application built with ASP.NET Core and Entity Framework Core using an in-memory SQLite database. Features include user management and a product catalog.
 
 ## Setup and Run Instructions
 

@@ -1,6 +1,6 @@
 @ArunEstatesTestOlivia_HostAddress = http://localhost:5152
 
-GET {{ArunEstatesTestOlivia_HostAddress}}/weatherforecast/
+GET {{ArunEstatesTestOlivia_HostAddress}}/arunestates/
 Accept: application/json
 
 ###
